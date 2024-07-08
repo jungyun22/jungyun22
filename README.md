@@ -3,7 +3,6 @@
 
 ### 🖐 To become...
 ![AI_Engineer](https://img.shields.io/badge/Ai_engineer-000000.svg?&style=for-the-badge) ![Data_Engineer](https://img.shields.io/badge/Data_engineer-000000.svg?&style=for-the-badge) ![Data_Analyst](https://img.shields.io/badge/Data_analyst-000000.svg?&style=for-the-badge) ![financial_expert](https://img.shields.io/badge/Financial_expert-000000.svg?&style=for-the-badge) 
-
 ---
 
 ### 🦾 Skills
@@ -12,12 +11,10 @@
 
 **🛠️ Infra and Tools**
 ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) ![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white) 
-
 ---
 
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyun22&layout=compact)
-
 ---
 
 

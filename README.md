@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=JUNGYUN+SEO&fontSize=70&fontAlign=50&fontAlignY=50&desc=Wellcome&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=JUNGYUN+SEO&fontSize=70&fontAlign=50&fontAlignY=50&desc=Welcome&descSize=20&descAlign=50&descAlignY=60)
 ---
 
 ### 🐥 To become...

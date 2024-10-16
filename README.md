@@ -9,7 +9,7 @@
 
 ### 🐥 To become...
 ![AI_Engineer](https://img.shields.io/badge/Ai_engineer-000000.svg?&style=for-the-badge) ![Data_Engineer](https://img.shields.io/badge/Data_engineer-000000.svg?&style=for-the-badge) ![Data_Analyst](https://img.shields.io/badge/Data_analyst-000000.svg?&style=for-the-badge) ![financial_expert](https://img.shields.io/badge/Financial_expert-000000.svg?&style=for-the-badge) 
----
+
 
 ### 🦾 Skills
 
@@ -23,11 +23,10 @@
 
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyun22&layout=compact)
----
 
 ### 🎞 GitHub stats
 ![jungyun22's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyun22&show_icons=true&theme=dracula)
----
+
 
 <!--
 **jungyun22/jungyun22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20jungyun)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungyun22%2Fhit-counter&count_bg=%237ADC50&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ### Data Analyst, also interested in AI Engineer
 안녕하세요, 항상 새로운 것에 도전하는 서정윤입니다:)
 
